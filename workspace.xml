@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fe1e12f-a815-4c3a-b05c-ebbbb50f0057" name="Changes" comment="game is finished" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Erza &lt;www.llynnmorton88@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fJrvZZZc3XwyzoLtXuG677RPoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Erza/IdeaProjects/game_one",
+    "onboarding.tips.debug.path": "C:/Users/Erza/IdeaProjects/game_one/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe1e12f-a815-4c3a-b05c-ebbbb50f0057" name="Changes" comment="" />
+      <created>1713530252417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713530252417</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Started, have the basics of what i want down. Trying to figure out a simple error">
+      <option name="closed" value="true" />
+      <created>1713535609552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713535609552</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Started, have the basics of what i want down. Trying to figure out a simple error">
+      <option name="closed" value="true" />
+      <created>1713535625101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713535625101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started, have the basics of what i want down. Trying to figure out a simple error">
+      <option name="closed" value="true" />
+      <created>1713535692879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713535692879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="game is finished">
+      <option name="closed" value="true" />
+      <created>1713618481693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713618481693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started, have the basics of what i want down. Trying to figure out a simple error" />
+    <MESSAGE value="game is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="game is finished" />
+  </component>
+</project>
