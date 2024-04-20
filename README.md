@@ -1,7 +1,9 @@
-Adventure Game
+Text based game
+
 This is a simple text-based adventure game written in Java. In this game, the player explores rooms, collects items, battles enemies, and completes quests.
 
 How to Play
+
 Running the Game:
 Compile and run the Main.java file to start the game.
 bash
